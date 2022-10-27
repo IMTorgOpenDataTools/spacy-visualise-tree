@@ -41,5 +41,3 @@ def test_partial_plot():
     plot = visualise_spacy_tree.create_png(tokens)
     with open(os.path.join(example_plot_dir, 'default_partial_plot.png'), 'wb') as f:
         f.write(plot)
-
-

@@ -8,6 +8,11 @@ An alternative to [SpaCy's](https://spacy.io) [visualizer](https://spacy.io/usag
 
 - You need [GraphViz](https://graphviz.gitlab.io/download/) installed.
 
+```
+sudo apt-get update
+sudo apt-get install graphviz
+```
+
 ## Installation
 
 With pip:
